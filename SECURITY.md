@@ -1,6 +1,6 @@
 # Security Policy
 
-Report security issues privately to mandates@mirogate.com.
+Report security issues privately to security@mirogate.com.
 
 Do not open public issues that include exploit details, credentials, private infrastructure information, or production user data.
 
