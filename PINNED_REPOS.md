@@ -2,12 +2,12 @@
 
 Pin these repositories in the Mirogate GitHub organization after publishing them:
 
-1. `secure-droplet-bootstrap`
-2. `bilingual-enterprise-form-kit`
-3. `fingerprintjs-v6-readiness-lab`
-4. `web-security-baseline-audit`
-5. `cloudflare-worker-abuse-defense-kit`
-6. `fingerprintjs-risk-signal-lab`
+1. `secure-code-skill-cascade`
+2. `web-security-baseline-audit`
+3. `cloudflare-worker-abuse-defense-kit`
+4. `fingerprintjs-risk-signal-lab`
+5. `secure-droplet-bootstrap`
+6. `bilingual-enterprise-form-kit`
 
 Use this organization bio:
 
