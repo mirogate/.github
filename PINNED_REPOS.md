@@ -2,12 +2,12 @@
 
 Pin these repositories in the Mirogate GitHub organization after publishing them:
 
-1. `secure-code-skill-cascade`
-2. `web-performance-skill-cascade`
-3. `web-security-baseline-audit`
-4. `cloudflare-worker-abuse-defense-kit`
-5. `fingerprintjs-risk-signal-lab`
-6. `bilingual-enterprise-form-kit`
+1. `secure-ai-engineering-framework`
+2. `secure-code-skill-cascade`
+3. `web-performance-skill-cascade`
+4. `web-security-baseline-audit`
+5. `cloudflare-worker-abuse-defense-kit`
+6. `fingerprintjs-risk-signal-lab`
 
 Use this organization bio:
 
